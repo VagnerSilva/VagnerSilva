@@ -143,13 +143,13 @@ Here are some ideas to get you started:
         <img width="138px" src="https://static.packt-cdn.com/products/9781839214110/cover/smaller">
       </a>
       <a href="https://www.travessa.com.br/programacao-orientada-a-objetos-com-java-1-ed-2004/artigo/3991c831-bace-4b90-a466-b42f0f426ab6?pcd=041&gclid=CjwKCAjwj8eJBhA5EiwAg3z0m84mqZc7JP5i7ealQKNPAovZszgnoqJAMrvTW8e-PmScRPbw5_rjJhoCq4wQAvD_BwE" alt target="_blank">
-        <img width="130px" src="https://img.travessa.com.br/livro/BA/39/3991c831-bace-4b90-a466-b42f0f426ab6.jpg">
+        <img width="119px" src="https://img.travessa.com.br/livro/BA/39/3991c831-bace-4b90-a466-b42f0f426ab6.jpg">
       </a>
       <a href="https://www.packtpub.com/product/learning-ionic/9781783552603" alt target="_blank">
-        <img width="150px" src="https://static.packt-cdn.com/products/9781783552603/cover/smaller">
+        <img width="138px" src="https://static.packt-cdn.com/products/9781783552603/cover/smaller">
       </a>
       <a href="https://www.amazon.com.br/Typescript-Deep-Dive-Basarat-Syed/dp/9888407120" alt target="_blank">
-        <img width="144px" src="https://images-na.ssl-images-amazon.com/images/I/41yt05r8e1L._SX384_BO1,204,203,200_.jpg">
+        <img width="132px" src="https://images-na.ssl-images-amazon.com/images/I/41yt05r8e1L._SX384_BO1,204,203,200_.jpg">
       </a>
       <a href="https://www.amazon.com.br/BDD-Books-Discovery-G%C3%A1sp%C3%A1r-Nagy/dp/1839211822/ref=sr_1_1?adgrpid=82805399978&dchild=1&gclid=CjwKCAjwj8eJBhA5EiwAg3z0mxAqgwwm2KLSaMhlrk_-Qpees_gbyYmbp7wJKRNbY_fa8Le0uutfbBoCrmYQAvD_BwE&hvadid=426075334016&hvdev=c&hvlocphy=1001773&hvnetw=g&hvqmt=e&hvrand=7532698408995062441&hvtargid=kwd-873978362378&hydadcr=1468_11510621&keywords=bdd+book&qid=1630660047&sr=8-1&ufe=app_do%3Aamzn1.fos.4bb5663b-6f7d-4772-84fa-7c7f565ec65b" alt target="_blank">
         <img width="151px" src="https://images-na.ssl-images-amazon.com/images/I/51j0uJAq+CL._SX404_BO1,204,203,200_.jpg">

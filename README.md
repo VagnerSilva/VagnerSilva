@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+ 
 <!--
 **VagnerSilva/VagnerSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div>
+   <a href="mailto:vagner23silva@gmail.com" alt="gmail" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:vagner23silva@gmail.com" />
+  </a>
+  <a href="https://www.linkedin.com/in/vagner-psilva" alt="linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+</div>
 
 <div>
   <a href="https://github.com/VagnerSilva">

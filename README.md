@@ -23,21 +23,46 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-
+<br/>
  <kbd>Front end:</kbd>
+ <br/>
  <br/>
  
  <div>
-      <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-      <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
-      <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-      <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-      <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-      <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-
+      <a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript" alt="javascript" target="_blank">
+        <img src="https://img.shields.io/badge/Javascript-F7DF1E?&style=flat-square&logo=Javascript&logoColor=fff">
+      </a>
+      <a href="https://www.typescriptlang.org/" alt="Typescript" target="_blank">
+        <img src="https://img.shields.io/badge/Typescript-3178C6?&style=flat-square&logo=Typescript&logoColor=fff">
+      </a>
+       <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" alt="Html" target="_blank">
+        <img src="https://img.shields.io/badge/Html-E34F26?&style=flat-square&logo=Html5&logoColor=fff">
+      </a>
+      </a>
+       <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" alt="Css" target="_blank">
+        <img src="https://img.shields.io/badge/Css-1572B6?&style=flat-square&logo=Css3&logoColor=fff">
+      </a>
+      <a href="https://sass-lang.com/" alt="Sass" target="_blank">
+        <img src="https://img.shields.io/badge/Sass-CC6699?&style=flat-square&logo=Sass&logoColor=fff">
+      </a>   
+      <a href="https://angular.io/" alt="Angular" target="_blank">
+        <img src="https://img.shields.io/badge/Angular-DD0031?&style=flat-square&logo=Angular&logoColor=fff">
+      </a>
+      <a href="https://angularjs.org/" alt="AngularJs" target="_blank">
+        <img src="https://img.shields.io/badge/AngularJs-DD0031?&style=flat-square&logo=AngularJs&logoColor=fff">
+      </a>   
+      <a href="https://vuejs.org/" alt="Vue" target="_blank">
+        <img src="https://img.shields.io/badge/Vue-4FC08D?&style=flat-square&logo=Vue.js&logoColor=fff">
+      </a>
+      <a href="https://reactjs.org/" alt="React" target="_blank">
+        <img src="https://img.shields.io/badge/React-61DAFB?&style=flat-square&logo=React&logoColor=fff">
+      </a>
+      <a href="https://flutter.dev/" alt="Flutter" target="_blank">
+        <img src="https://img.shields.io/badge/Flutter-02569B?&style=flat-square&logo=Flutter&logoColor=fff">
+      </a>
+      <a href="https://developer.android.com/" alt="Android" target="_blank">
+        <img src="https://img.shields.io/badge/Android-3DDC84?&style=flat-square&logo=Android&logoColor=fff">
+      </a>
 </div>
 
 <br/>
@@ -46,9 +71,21 @@ Here are some ideas to get you started:
  <br/>
  <br/>
 <div>
-      <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-      <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-      <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+      <a href="https://https://nodejs.org" alt="Node Js" target="_blank">
+        <img src="https://img.shields.io/badge/Node.Js-339933?&style=flat-square&logo=Node.js&logoColor=fff">
+      </a>
+      <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" alt="csharp" target="_blank">
+        <img src="https://img.shields.io/badge/C%2DSharp-3DDC84?&style=flat-square&logo=c-sharp&logoColor=fff">
+      </a>
+      <a href="https://docs.microsoft.com/en-us/dotnet/core/introduction" alt="net core" target="_blank">
+        <img src="https://img.shields.io/badge/Core-512BD4?&style=flat-square&logo=.Net&logoColor=fff">
+      </a>
+      <a href="https://www.java.com/" alt="Java" target="_blank">
+        <img src="https://img.shields.io/badge/Java-007396?&style=flat-square&logo=Java&logoColor=fff">
+      </a>
+      <a href="https://kotlinlang.org" alt="Kotlin" target="_blank">
+        <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=Kotlin&logoColor=fff">
+      </a>
 </div>
 
  <br/>
@@ -59,8 +96,14 @@ Here are some ideas to get you started:
 
 
 <div>
-      <img align="center" alt="Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-      <img align="center" alt="Sql Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-      <img align="center" alt="MongoDb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+      <a href="https://www.postgresql.org" alt="PostgreSQL" target="_blank">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?&style=flat-square&logo=postgresql&logoColor=fff">
+      </a>
+      <a href="https://www.microsoft.com/sql-server/sql-server-downloads?rtc=1" alt="Sql Server" target="_blank">
+        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?&style=flat-square&logo=microsoftsqlserver&logoColor=fff">
+      </a>
+      <a href="https://www.mongodb.com/" alt="MongoDB" target="_blank">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?&style=flat-square&logo=mongodb&logoColor=fff">
+      </a>
 </div>
   

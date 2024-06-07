@@ -24,10 +24,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-  <a href="https://github.com/VagnerSilva">
-  <img height="180em" width="350px" alt="git status" src="https://github-readme-stats.vercel.app/api?username=VagnerSilva&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="160px"  width="400px"alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VagnerSilva&layout=compact&langs_count=7"/>
-  </a>
+  <img height="180em" alt="git status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VagnerSilva&layout=compact&langs_count=8"/>
 </div>
 
 <br/>

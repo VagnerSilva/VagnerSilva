@@ -22,11 +22,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
 </div>
-
+<!--
 <div>
   <img height="180em" alt="git status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VagnerSilva&layout=compact&langs_count=8"/>
 </div>
-
+-->
 <br/>
  <kbd>Front end:</kbd>
  <br/>
